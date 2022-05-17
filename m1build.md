@@ -13,9 +13,9 @@ export LD_LIBRARY_PATH=/opt/homebrew/lib
 配置完成后生成的build.ninja里面链接的库都是/opt/homebrew下面的arm64版本
 
 ## 编译选项
-因为需要使用mesa提供的opengl，所以要打开软件渲染器，同时打开asahi提供的driver和compiler
-meson_option：
-gallium_driver：asahi, swrast
+因为需要使用mesa提供的opengl，所以要打开软件渲染器，同时打开asahi提供的driver和compiler  
+meson_option： 
+gallium_driver：asahi, swrast  
 glx：gallium-xlib
 
 
