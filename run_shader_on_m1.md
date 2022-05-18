@@ -23,4 +23,10 @@
   7. create_new_program
   8. _mesa_glsl_link_shader
   9. st_link_shader
+  10. link_shader
+  11. st_link_nir
+  12. glsl_to_nir
+  13. visit_exec_list
+  14. ir_function::accept
+  15. nir_visitor::visit
   
