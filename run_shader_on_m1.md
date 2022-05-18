@@ -30,3 +30,8 @@
   14. ir_function::accept
   15. nir_visitor::visit
   
+  # 调用画图
+  glDraw***
+  1. _mesa_Draw***
+  2. st_draw_gallium
+  
