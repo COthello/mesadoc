@@ -5,7 +5,7 @@ m1上编译mesa有两种方式：
 2. 编译x86_64版本
 这两种的编译配置文件稍微有所不同。
 ## 编译arm64
-配置zsh，保证运行的是arm版本的brew
+配置zsh，保证运行的是arm版本的brew  
 export PATH=/opt/homebrew/bin:$PATH
 保证找到arm版本的lib
 export LD_LIBRARY_PATH=/opt/homebrew/lib
