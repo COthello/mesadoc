@@ -4,4 +4,4 @@
 ![image](https://user-images.githubusercontent.com/9839536/170159357-4251e34c-5a56-4cea-9a09-3e1ab893e2cd.png)
 
 FP32 FLOPS算力：
-15.7Tflops = 80*64*1.53*2(2 elements/per cycle)
+15.7Tflops = 80x64x1.53x2(2 elements/per cycle)
